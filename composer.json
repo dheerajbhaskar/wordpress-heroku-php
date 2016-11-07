@@ -2,7 +2,7 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "http://wpackagist.org"
+      "url": "https://wpackagist.org"
     },
     {
       "type": "package",
@@ -22,7 +22,7 @@
   ],
   "require": {
     "php": ">=5.3.0",
-    "wordpress": "4.1.1",
+    "wordpress": "4.6.1",
     "fancyguy/webroot-installer": "1.0.0"
   },
   "extra": {
